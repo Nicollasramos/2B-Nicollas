@@ -1,0 +1,197 @@
+* {
+  margin: 0;
+  padding: 0;
+}  
+
+.cabecalho {
+  background-color: #424E61;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 30px 0;
+  cursor: pointer;
+}
+
+.cabecalho-imagem {
+  width: 200px;
+  display: inline-block;
+}
+
+.cabecalho-lista {
+  color: white;
+}
+
+.cabecalho-lista-item {
+  display: inline-block;
+  margin: 0 16px;
+  font-size: 20px;
+  color: white;
+}
+
+.img2 {
+  width: 450;
+  height: 300;
+  padding-left: 5px;
+  padding-top: 5px;
+  padding-bottom: 150px;
+}
+
+.escola {
+  background-image: linear-gradient(#424E61, #4EBFE9);
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+
+.escola-titulo {
+  margin: 10 5;
+  padding-top: 100px;
+  padding-left: 5px;
+  font-size: 18px;
+  font-family: "Averia Libre", system-ui;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.escola-texto-1 {
+  font-size: 17px;
+  padding-left: 10px;
+}
+
+.escola-texto-2 {
+  font-size: 17px;
+}
+
+.escola-texto-3 {
+  font-size: 17px;
+}
+
+.img3 {
+  width: 400;
+  padding-left: 5px;
+  justify-content: left;
+  padding-bottom: 30px;
+
+}
+
+.contato-titulo {
+  background-clip: border-box;
+  background: linear-gradient(rgb(162, 1, 1), rgb(250, 30, 30));
+  text-align: center;
+  font-size: 20px;
+  font-family: "Averia Libre", system-ui;
+  font-weight: 700, bold;
+  color: white;
+}
+
+.rodape {
+  background-color: #394d70;
+  color: white;
+  display: flex;
+  justify-content: center;
+  padding-top: 15px;
+}
+
+.escola-div-rodape {
+  padding-top: 15px;
+}
+
+.divulgacao-titulo {
+  background-clip: border-box;
+  background: linear-gradient(rgb(162, 1, 1), rgb(250, 30, 30));
+  text-align: center;
+  font-size: 20px;
+  font-family: "Averia Libre", system-ui;
+  font-weight: 700, bold;
+  color: white;
+}
+
+.divulgacao {
+  background-color: #394d70;
+  color: white;
+  display: flex;
+  justify-content: center;
+  height: 308.98;
+}
+
+.divulgacao-div-conteudo {
+font-size: 15px;
+}
+
+.estaquiaimg {
+ height: 300px;
+ margin: 2;
+}
+
+.etapa1 {
+  font-family: "Averia Libre", system-ui;
+  background-clip: border-box;
+  background: rgb(162, 1, 1) 100px;
+  margin-top: 15px;
+  font-size: 18px;
+}
+
+.etapa2 {
+  font-family: "Averia Libre", system-ui;
+  background-clip: border-box;
+  background: rgb(162, 1, 1) 100px;
+  margin-top: 6;
+  font-size: 18px;
+}
+
+.etapa3 {
+  font-family: "Averia Libre", system-ui;
+  background-clip: border-box;
+  background: rgb(162, 1, 1) 100px;
+  margin-top: 6;
+  font-size: 18px;
+}
+
+.etapa4 {
+  font-family: "Averia Libre", system-ui;
+  background-clip: border-box;
+  background: rgb(162, 1, 1) 100px;
+  margin-top: 6;
+  font-size: 18px;
+}
+
+.etapa5 {
+  font-family: "Averia Libre", system-ui;
+  background-clip: border-box;
+  background: rgb(162, 1, 1) 100px;
+  margin-top: 6;
+  font-size: 18px;
+}
+
+.etapa6 {
+  font-family: "Averia Libre", system-ui;
+  background-clip: border-box;
+  background: rgb(162, 1, 1) 100px;
+  margin-top: 6;
+  font-size: 18px;
+}
+
+.rodape2 {
+  background: linear-gradient(rgb(68, 68, 68), rgb(139, 138, 138));
+  height: 100;
+  display: flex;
+  justify-content: center;
+  border-top: 5px solid rgb(162, 1, 1);
+  border-bottom: 5px solid rgb(162, 1, 1);
+}
+
+.img4 {
+  width: 80;
+  margin: 10 10;
+}
+
+.img5 {
+  width: 100;
+  height: 100;
+}
+
+.img6 {
+  width: 69;
+  height: 67;
+  margin: 15 12;
+}
